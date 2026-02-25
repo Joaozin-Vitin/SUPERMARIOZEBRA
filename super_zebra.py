@@ -608,7 +608,7 @@ class Player:
 
     GRAVITY = 1.0
     MAX_FALL = 10
-    SPEED = 4
+    SPEED = 5
     JUMP_FORCE = -20
     ACCEL = 0.5
     FRICTION = 0.3
